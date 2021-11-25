@@ -1,5 +1,15 @@
 # CRUK technical exercise (React)
 
+## How to run my task
+- This task has been done by yarn. Please build and run the web application with yarn cli
+- Also, some tests on the implementation can be available with 'yarn test'
+```
+yarn
+yarn test
+yarn start
+```
+
+## Technical Task Instruction
 - The below technical guidance has been provided for the task
 - You should use the CRUK component library when building your form https://www.npmjs.com/package/@cruk/cruk-react-components
 - Please do not attempt to push to this repo, clone it and it and make sure your first commit has no changes.
